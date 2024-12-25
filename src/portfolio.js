@@ -127,14 +127,13 @@ const educationInfo = {
       schoolName: "Hanoi University of Industry",
       logo: require("./assets/images/unnamed.png"),
       subHeader: "Bachelor of Information Systems",
-      duration: "09/2020 - 06/2024",
-
+      duration: "09/2020 - 06/2024"
     },
     {
       schoolName: "CodeGym Programmer Training Center",
       logo: require("./assets/images/1631407138886.jpg"),
       subHeader: "Frontend Web Developer Training course Certificate",
-      duration: "06/2024 - 12/2024",
+      duration: "06/2024 - 12/2024"
     }
   ]
 };
@@ -170,7 +169,7 @@ const workExperiences = {
       company: "Top Engineering",
       companylogo: require("./assets/images/top-logo1.png"),
       date: "May 2023 – July 2023",
-      desc: "Joined the Development team and, within three months, contributed to building the TERP application. This application streamlines storage management for the company, including functionalities for import/export operations, provider and customer management, stock tracking, and multi-currency handling across various providers and customers.",
+      desc: "Joined the Development team and, within three months, contributed to building the TERP application. This application streamlines storage management for the company, including functionalities for import/export operations, provider and customer management, stock tracking, and multi-currency handling across various providers and customers."
     }
   ]
 };
@@ -191,7 +190,8 @@ const bigProjects = {
     {
       image: require("./assets/images/coffee-shop.jpg"),
       projectName: "CodeGym Coffee",
-      projectDesc: "A website designed for introducing & managing a coffee shop.",
+      projectDesc:
+        "A website designed for introducing & managing a coffee shop.",
       footerLink: [
         {
           name: "Visit Website",
@@ -207,7 +207,8 @@ const bigProjects = {
     {
       image: require("./assets/images/bookee.png"),
       projectName: "Bookee",
-      projectDesc: "A website for selling books, inspired by the Shopee e-commerce platform.",
+      projectDesc:
+        "A website for selling books, inspired by the Shopee e-commerce platform.",
       footerLink: [
         {
           name: "Visit Website",
@@ -285,7 +286,8 @@ const achievementSection = {
 
     {
       title: "Scrum Essence",
-      subtitle: "Acquired foundational knowledge of the Scrum framework, including its roles, artifacts, and ceremonies. Learned how to apply Agile principles to foster collaboration, enhance team productivity, and deliver value incrementally.",
+      subtitle:
+        "Acquired foundational knowledge of the Scrum framework, including its roles, artifacts, and ceremonies. Learned how to apply Agile principles to foster collaboration, enhance team productivity, and deliver value incrementally.",
       image: require("./assets/images/scrum-agile.png"),
       imageAlt: "PWA Logo",
       footerLink: [
